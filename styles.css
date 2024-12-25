@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+.prep-time-bullets::marker {
+  color: hsl(332, 51%, 32%);
+}
+
+.ingredients-bullets::marker {
+  color: hsl(14, 45%, 36%);
+}
