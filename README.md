@@ -19,8 +19,8 @@ This Recipe Page Frontend project is a responsive web page designed to display v
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub code](https://github.com/stephenakinrodoye/Recipe-page.git)
+- Live Site URL: [GitHub live page](https://stephenakinrodoye.github.io/Recipe-page/)
 
 ## My process
 
